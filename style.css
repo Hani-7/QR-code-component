@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@1,500&family=Roboto&display=swap');
+
+.body{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.cardColor{
+    color: White;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;}
+
+.card-title{
+    font-weight: 700;
+}
+
+.parghraphCard{
+    font-size: 15px;
+    font-weight: 400;
+    color: #d3d3d3;
+}
+
+.MobileWidth{
+    width: 280px;
+}
